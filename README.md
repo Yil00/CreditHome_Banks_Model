@@ -43,3 +43,7 @@ ________________________________________________
 - L'API de Prédiction a été réalisée avec Flask et déployée sur Heroku.
 
 - Le dashboard a destination des chargés de clientèles a été réalisé avec Streamlit. 
+
+______________________________________
+
+![P7DS](https://user-images.githubusercontent.com/105881992/234901312-ee2fefa5-1312-4b8f-86cc-e07d30ffe7dc.png)
